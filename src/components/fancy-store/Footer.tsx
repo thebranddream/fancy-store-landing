@@ -49,7 +49,7 @@ export const Footer = () => {
             {/* Contact Info */}
             <div className="space-y-3">
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/91987"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-sm text-muted-foreground hover:text-primary transition-colors group"
@@ -70,13 +70,13 @@ export const Footer = () => {
                 hello@fancystore.in
               </a>
               <a
-                href="tel:+919876543210"
+                href="tel:+91987680800"
                 className="flex items-center gap-3 text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center">
                   <Phone className="w-4 h-4 text-primary" />
                 </div>
-                +91 98765 43210
+                +91 98765568718
               </a>
             </div>
           </div>
